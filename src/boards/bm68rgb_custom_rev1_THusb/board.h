@@ -64,7 +64,7 @@
 
 //------------- UF2 -------------//
 #define UF2_PRODUCT_NAME      "bm68rgb_custom"
-#define UF2_VOLUME_LABEL      "BM68RGB_BOOT"
+#define UF2_VOLUME_LABEL      "BM68RGBBOOT"
 #define UF2_BOARD_ID          "bm68rgb_custom rev1_THusb"
 #define UF2_INDEX_URL         ""
 
