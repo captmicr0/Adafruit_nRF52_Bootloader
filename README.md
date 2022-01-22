@@ -1,5 +1,9 @@
 # Adafruit nRF52 Bootloader
 
+## bm68rgb-custom
+
+Added support for custom board, bm68rgb-custom, which uses the Holyiot-18010 module (nRF52840).
+
 [![Build Status](https://github.com/adafruit/Adafruit_nRF52_Bootloader/workflows/Build/badge.svg)](https://github.com/adafruit/Adafruit_nRF52_Bootloader/actions)
 
 This is a CDC/DFU/UF2 bootloader for nRF52 boards.
