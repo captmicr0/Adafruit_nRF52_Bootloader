@@ -1,0 +1,4 @@
+src/usb/usb_desc.c:71:17:tud_descriptor_device_cb	0	static
+src/usb/usb_desc.c:112:17:tud_descriptor_configuration_cb	0	static
+src/usb/usb_desc.c:119:6:usb_desc_init	40	static
+src/usb/usb_desc.c:165:17:tud_descriptor_string_cb	8	static

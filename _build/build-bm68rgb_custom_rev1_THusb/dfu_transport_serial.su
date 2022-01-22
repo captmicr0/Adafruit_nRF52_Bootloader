@@ -1,0 +1,6 @@
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:256:6:rpc_transport_event_handler	24	static
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:188:13:dfu_cb_handler	0	static
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:103:17:data_queue_element_free	8	static
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:194:13:process_dfu_packet	16	static
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:286:10:dfu_transport_serial_update_start	8	static
+lib/sdk11/components/libraries/bootloader_dfu/dfu_transport_serial.c:307:10:dfu_transport_serial_close	8	static

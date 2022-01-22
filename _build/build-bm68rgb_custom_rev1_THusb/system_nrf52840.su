@@ -1,0 +1,4 @@
+src/cmsis/include/core_cm4.h:1790:22:NVIC_SystemReset	0	static
+lib/nrfx/mdk/nrf52840_erratas.h:955:13:errata_98	0	static
+lib/nrfx/mdk/system_nrf52840.c:45:6:SystemCoreClockUpdate	0	static
+lib/nrfx/mdk/system_nrf52840.c:50:6:SystemInit	8	static

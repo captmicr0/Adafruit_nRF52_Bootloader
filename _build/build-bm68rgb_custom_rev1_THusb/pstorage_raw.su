@@ -1,0 +1,12 @@
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/nrf_soc.h:948:1:sd_flash_write	0	static
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/nrf_soc.h:980:1:sd_flash_page_erase	0	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:133:13:cmd_queue_element_init	0	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:260:13:app_notify	16	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:343:17:cmd_process	16	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:177:17:cmd_queue_enqueue	16	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:281:6:pstorage_sys_event_handler	16	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:409:10:pstorage_init	8	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:425:10:pstorage_register	0	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:440:10:pstorage_block_identifier_get	0	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:448:10:pstorage_store	16	static
+lib/sdk11/components/drivers_nrf/pstorage/pstorage_raw.c:463:10:pstorage_clear	16	static

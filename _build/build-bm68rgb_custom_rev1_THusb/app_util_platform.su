@@ -1,0 +1,6 @@
+lib/sdk/components/libraries/util/app_util_platform.c:47:6:app_util_disable_irq	0	static
+lib/sdk/components/libraries/util/app_util_platform.c:53:6:app_util_enable_irq	0	static
+lib/sdk/components/libraries/util/app_util_platform.c:62:6:app_util_critical_region_enter	16	static
+lib/sdk/components/libraries/util/app_util_platform.c:76:6:app_util_critical_region_exit	8	static
+lib/sdk/components/libraries/util/app_util_platform.c:91:9:privilege_level_get	0	static
+lib/sdk/components/libraries/util/app_util_platform.c:113:9:current_int_priority_get	0	static

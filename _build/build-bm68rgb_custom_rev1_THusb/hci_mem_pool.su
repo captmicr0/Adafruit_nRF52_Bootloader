@@ -1,0 +1,8 @@
+lib/sdk/components/libraries/hci/hci_mem_pool.c:72:10:hci_mem_pool_open	0	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:87:10:hci_mem_pool_close	0	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:93:10:hci_mem_pool_tx_alloc	0	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:119:10:hci_mem_pool_tx_free	0	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:127:10:hci_mem_pool_rx_produce	12	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:171:10:hci_mem_pool_rx_consume	20	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:218:10:hci_mem_pool_rx_data_size_set	0	static
+lib/sdk/components/libraries/hci/hci_mem_pool.c:230:10:hci_mem_pool_rx_extract	12	static

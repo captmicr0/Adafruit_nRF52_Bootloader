@@ -1,0 +1,15 @@
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/nrf_sdm.h:356:1:sd_softdevice_vector_table_base_set	0	static
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/nrf52/nrf_mbr.h:257:1:sd_mbr_command	0	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:62:13:pstorage_callback_handler	0	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:185:13:bootloader_settings_save.constprop	8	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:110:13:wait_for_events	16	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:148:6:bootloader_app_is_valid	16	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:205:6:bootloader_dfu_update_process	32	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:81:13:dfu_startup_timer_handler	40	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:308:10:bootloader_init	24	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:323:10:bootloader_dfu_start	16	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:357:6:bootloader_app_start	24	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:405:6:bootloader_dfu_sd_in_progress	16	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:421:10:bootloader_dfu_sd_update_continue	8	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:448:10:bootloader_dfu_sd_update_finalize	40	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader.c:461:6:bootloader_settings_get	16	static

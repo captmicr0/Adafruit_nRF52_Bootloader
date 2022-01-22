@@ -1,0 +1,5 @@
+lib/tinyusb/src/tusb.c:38:6:tusb_init	8	static
+lib/tinyusb/src/tusb.c:51:6:tusb_inited	0	static
+lib/tinyusb/src/tusb.c:70:6:tu_edpt_validate	0	static
+lib/tinyusb/src/tusb.c:109:6:tu_edpt_bind_driver	12	static
+lib/tinyusb/src/tusb.c:128:10:tu_desc_get_interface_total_len	16	static

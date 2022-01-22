@@ -1,0 +1,2 @@
+lib/sdk11/components/libraries/bootloader_dfu/bootloader_util.c:69:20:bootloader_util_reset	20	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader_util.c:150:6:bootloader_util_app_start	0	static

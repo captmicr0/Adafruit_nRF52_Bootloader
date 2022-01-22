@@ -1,0 +1,10 @@
+lib/tinyusb/src/class/msc/msc_device.c:106:13:fail_scsi_op.constprop	8	static
+lib/tinyusb/src/class/msc/msc_device.c:854:13:proc_write10_cmd.constprop	16	static
+lib/tinyusb/src/class/msc/msc_device.c:816:13:proc_read10_cmd.constprop	24	static
+lib/tinyusb/src/class/msc/msc_device.c:158:9:rdwr10_validate_cmd	0	static
+lib/tinyusb/src/class/msc/msc_device.c:231:6:tud_msc_set_sense	0	static
+lib/tinyusb/src/class/msc/msc_device.c:245:6:mscd_init	0	static
+lib/tinyusb/src/class/msc/msc_device.c:250:6:mscd_reset	0	static
+lib/tinyusb/src/class/msc/msc_device.c:256:10:mscd_open	24	static
+lib/tinyusb/src/class/msc/msc_device.c:295:6:mscd_control_xfer_cb	32	static
+lib/tinyusb/src/class/msc/msc_device.c:380:6:mscd_xfer_cb	88	static

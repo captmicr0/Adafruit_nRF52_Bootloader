@@ -1,0 +1,4 @@
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/ble_gatts.h:446:1:sd_ble_gatts_service_add	0	static
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/ble_gatts.h:501:1:sd_ble_gatts_characteristic_add	0	static
+lib/sdk11/components/ble/ble_services/ble_dis/ble_dis.c:102:17:char_add	80	static
+lib/sdk11/components/ble/ble_services/ble_dis/ble_dis.c:150:10:ble_dis_init	40	static

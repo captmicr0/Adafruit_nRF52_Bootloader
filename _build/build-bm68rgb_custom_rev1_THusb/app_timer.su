@@ -1,0 +1,16 @@
+lib/sdk/components/libraries/timer/app_timer.c:790:26:user_op_alloc	0	static
+lib/sdk/components/libraries/timer/app_timer.c:364:13:timeout_handler_scheduled_exec	8	static
+lib/sdk/components/libraries/timer/app_timer.c:868:17:timer_stop_op_schedule	24	static
+lib/sdk/components/drivers_nrf/delay/nrf_delay.h:167:22:nrf_delay_us.part.0.constprop	0	static
+lib/sdk/components/libraries/timer/app_timer.c:184:13:rtc1_stop	8	static
+lib/sdk/components/libraries/timer/app_timer.c:901:6:RTC1_IRQHandler	32	static
+lib/sdk/components/libraries/timer/app_timer.c:920:6:SWI0_EGU0_IRQHandler	48	static
+lib/sdk/components/libraries/timer/app_timer.c:926:12:app_timer_init	8	static
+lib/sdk/components/libraries/timer/app_timer.c:956:12:app_timer_create	0	static
+lib/sdk/components/libraries/timer/app_timer.c:983:12:app_timer_start	40	static
+lib/sdk/components/libraries/timer/app_timer.c:1014:12:app_timer_stop	0	static
+lib/sdk/components/libraries/timer/app_timer.c:1032:12:app_timer_stop_all	0	static
+lib/sdk/components/libraries/timer/app_timer.c:1041:10:app_timer_cnt_get	0	static
+lib/sdk/components/libraries/timer/app_timer.c:1047:10:app_timer_cnt_diff_compute	0	static
+lib/sdk/components/libraries/timer/app_timer.c:1060:6:app_timer_pause	0	static
+lib/sdk/components/libraries/timer/app_timer.c:1065:6:app_timer_resume	0	static

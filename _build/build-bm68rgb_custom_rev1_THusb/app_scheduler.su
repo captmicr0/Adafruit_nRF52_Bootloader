@@ -1,0 +1,4 @@
+lib/sdk/components/libraries/scheduler/app_scheduler.c:107:10:app_sched_init	12	static
+lib/sdk/components/libraries/scheduler/app_scheduler.c:133:10:app_sched_queue_space_get	0	static
+lib/sdk/components/libraries/scheduler/app_scheduler.c:164:10:app_sched_event_put	40	static
+lib/sdk/components/libraries/scheduler/app_scheduler.c:263:6:app_sched_execute	16	static

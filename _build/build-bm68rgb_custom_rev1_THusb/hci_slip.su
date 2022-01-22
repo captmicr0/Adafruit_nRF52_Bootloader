@@ -1,0 +1,15 @@
+lib/sdk/components/libraries/hci/hci_slip.c:258:13:handle_slip_end	24	static
+lib/sdk/components/libraries/hci/hci_slip.c:276:13:handle_rx_byte_esc	8	static
+lib/sdk/components/libraries/hci/hci_slip.c:320:13:handle_rx_byte_wait_start	0	static
+lib/sdk/components/libraries/hci/hci_slip.c:301:13:handle_rx_byte_default	4	static
+lib/sdk/components/libraries/hci/hci_slip.c:127:17:serial_put	16	static
+lib/sdk/components/libraries/hci/hci_slip.c:152:17:send_tx_byte_default	8	static
+lib/sdk/components/libraries/hci/hci_slip.c:138:17:send_tx_byte_end	8	static
+lib/sdk/components/libraries/hci/hci_slip.c:194:17:send_tx_byte_esc	8	static
+lib/sdk/components/libraries/hci/hci_slip.c:165:17:send_tx_byte_encoded	8	static
+lib/sdk/components/libraries/hci/hci_slip.c:361:6:tud_cdc_rx_cb	32	static
+lib/sdk/components/libraries/hci/hci_slip.c:422:10:hci_slip_evt_handler_register	0	static
+lib/sdk/components/libraries/hci/hci_slip.c:430:10:hci_slip_open	0	static
+lib/sdk/components/libraries/hci/hci_slip.c:446:10:hci_slip_close	0	static
+lib/sdk/components/libraries/hci/hci_slip.c:460:10:hci_slip_write	56	static
+lib/sdk/components/libraries/hci/hci_slip.c:489:10:hci_slip_rx_buffer_register	0	static

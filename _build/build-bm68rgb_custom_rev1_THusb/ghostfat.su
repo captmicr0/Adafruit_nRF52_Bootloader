@@ -1,0 +1,4 @@
+src/usb/uf2/ghostfat.c:246:6:uf2_init	32	static
+src/usb/uf2/ghostfat.c:287:6:padded_memcpy	8	static
+src/usb/uf2/ghostfat.c:300:6:read_block	32	static
+src/usb/uf2/ghostfat.c:403:5:write_block	32	static

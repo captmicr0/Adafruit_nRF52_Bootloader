@@ -1,0 +1,9 @@
+lib/softdevice/s140_nrf52_6.1.1/s140_nrf52_6.1.1_API/include/nrf52/nrf_mbr.h:257:1:sd_mbr_command	0	static
+src/usb/msc_uf2.c:50:6:tud_msc_inquiry_cb	48	static
+src/usb/msc_uf2.c:65:6:tud_msc_test_unit_ready_cb	0	static
+src/usb/msc_uf2.c:74:9:tud_msc_scsi_cb	8	static
+src/usb/msc_uf2.c:117:9:tud_msc_read10_cb	24	static
+src/usb/msc_uf2.c:141:9:tud_msc_write10_cb	24	static
+src/usb/msc_uf2.c:161:6:tud_msc_write10_complete_cb	64	static
+src/usb/msc_uf2.c:238:6:tud_msc_capacity_cb	0	static
+src/usb/msc_uf2.c:249:6:tud_msc_start_stop_cb	0	static

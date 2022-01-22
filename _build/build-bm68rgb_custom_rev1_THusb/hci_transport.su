@@ -1,0 +1,13 @@
+lib/sdk/components/libraries/hci/hci_transport.c:190:13:ack_transmit	0	static
+lib/sdk/components/libraries/hci/hci_transport.c:393:13:tx_sm_event_handle	16	static
+lib/sdk/components/libraries/hci/hci_transport.c:495:6:slip_event_handle	40	static
+lib/sdk/components/libraries/hci/hci_transport.c:602:6:hci_transport_timeout_handle	0	static
+lib/sdk/components/libraries/hci/hci_transport.c:568:10:hci_transport_evt_handler_reg	8	static
+lib/sdk/components/libraries/hci/hci_transport.c:580:10:hci_transport_tx_done_register	8	static
+lib/sdk/components/libraries/hci/hci_transport.c:608:10:hci_transport_open	8	static
+lib/sdk/components/libraries/hci/hci_transport.c:647:10:hci_transport_close	8	static
+lib/sdk/components/libraries/hci/hci_transport.c:667:10:hci_transport_tx_alloc	8	static
+lib/sdk/components/libraries/hci/hci_transport.c:682:10:hci_transport_tx_free	0	static
+lib/sdk/components/libraries/hci/hci_transport.c:745:10:hci_transport_pkt_write	24	static
+lib/sdk/components/libraries/hci/hci_transport.c:773:10:hci_transport_rx_pkt_extract	24	static
+lib/sdk/components/libraries/hci/hci_transport.c:804:10:hci_transport_rx_pkt_consume	0	static

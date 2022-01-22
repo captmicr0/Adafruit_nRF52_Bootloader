@@ -1,0 +1,16 @@
+lib/nrfx/drivers/src/nrfx_nvmc.c:144:17:partial_word_create	8	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:190:13:nvmc_word_write	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:212:12:nrfx_nvmc_page_erase	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:230:12:nrfx_nvmc_uicr_erase	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:244:6:nrfx_nvmc_all_erase	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:254:12:nrfx_nvmc_page_partial_erase_init	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:270:6:nrfx_nvmc_page_partial_erase_continue	12	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:300:6:nrfx_nvmc_byte_writable_check	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:308:6:nrfx_nvmc_word_writable_check	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:324:6:nrfx_nvmc_word_write	8	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:317:6:nrfx_nvmc_byte_write	16	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:336:6:nrfx_nvmc_bytes_write	32	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:398:6:nrfx_nvmc_words_write	24	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:411:10:nrfx_nvmc_flash_size_get	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:416:10:nrfx_nvmc_flash_page_size_get	0	static
+lib/nrfx/drivers/src/nrfx_nvmc.c:421:10:nrfx_nvmc_flash_page_count_get	0	static

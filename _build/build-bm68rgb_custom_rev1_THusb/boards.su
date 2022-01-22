@@ -1,0 +1,11 @@
+src/boards/boards.c:47:6:button_init	0	static
+src/boards/boards.c:59:6:button_pressed	0	static
+src/boards/boards.c:169:6:pwm_teardown	0	static
+src/boards/boards.c:194:6:led_pwm_init	12	static
+src/boards/boards.c:65:6:board_init	16	static
+src/boards/boards.c:222:6:led_pwm_teardown	0	static
+src/boards/boards.c:128:6:board_teardown	8	static
+src/boards/boards.c:227:6:led_pwm_duty_cycle	8	static
+src/boards/boards.c:238:6:led_tick	8	static
+src/boards/boards.c:161:6:SysTick_Handler	0	static
+src/boards/boards.c:268:6:led_state	0	static

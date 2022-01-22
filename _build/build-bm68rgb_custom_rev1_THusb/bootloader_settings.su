@@ -1,0 +1,2 @@
+lib/sdk11/components/libraries/bootloader_dfu/bootloader_settings.c:34:6:bootloader_util_settings_get	0	static
+lib/sdk11/components/libraries/bootloader_dfu/bootloader_settings.c:43:6:bootloader_mbr_addrs_populate	8	static
