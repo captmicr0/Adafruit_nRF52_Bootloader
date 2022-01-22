@@ -4,7 +4,7 @@
 
 Added support for custom board, bm68rgb-custom, which uses the Holyiot-18010 module (nRF52840).
 
--- bm68rgb_custom rev1_THusb board support
+- bm68rgb_custom rev1_THusb board support
 
 [![Build Status](https://github.com/adafruit/Adafruit_nRF52_Bootloader/workflows/Build/badge.svg)](https://github.com/adafruit/Adafruit_nRF52_Bootloader/actions)
 
