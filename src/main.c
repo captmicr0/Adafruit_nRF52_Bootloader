@@ -160,6 +160,8 @@ static void mbr_init_sd(void) {
 //--------------------------------------------------------------------+
 //
 //--------------------------------------------------------------------+
+#define CONVERT_TO_HEX(x) 0x##x
+
 int main(void) {
   // Populate Boot Address and MBR Param into MBR if not already
   // MBR_BOOTLOADER_ADDR/MBR_PARAM_PAGE_ADDR are used if available, else UICR registers are used
@@ -168,7 +170,8 @@ int main(void) {
 
   // Save bootloader version to pre-defined register, retrieved by application
   // TODO move to CF2
-  BOOTLOADER_VERSION_REGISTER = (MK_BOOTLOADER_VERSION);
+  
+  BOOTLOADER_VERSION_REGISTER = (CONVERT_TO_HEX(MK_BOOTLOADER_VERSION));
 
   board_init();
   bootloader_init();
